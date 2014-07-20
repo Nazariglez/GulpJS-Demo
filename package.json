@@ -1,0 +1,13 @@
+{
+  "name": "demo",
+  "private" : true,
+  "version": "0.0.0",
+  "description": "nothing to do here",
+
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-less": "^1.3.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglifyjs": "^0.4.2"
+  }
+}
